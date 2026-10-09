@@ -1,0 +1,25 @@
+# This repository contains only the documentation guide.
+# Everything below is local tooling, not part of the guide.
+
+# Universal Agent Toolkit (uat) install and generated files
+.agent-toolkit/
+AGENTS.md
+CLAUDE.md
+
+# AI agent rules, skills, commands and working files
+.agents/
+.claude/
+.cursor/
+.windsurf/
+.github/copilot-instructions.md
+GEMINI.md
+
+# MCP server configuration
+.mcp.json
+
+# Editors and OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
