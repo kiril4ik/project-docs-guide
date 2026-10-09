@@ -4,6 +4,8 @@
 > **For:** developers, tech leads, product/business analysts, technical writers and AI coding agents.
 > **Start here:** read this page (5 min), then jump to the section you need.
 
+> 📖 **Prefer a book?** Download the [PDF edition](Project-Documentation-Guide.pdf) (194 pages).
+
 ---
 
 ## TL;DR
