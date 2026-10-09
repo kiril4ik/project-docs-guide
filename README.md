@@ -25,6 +25,7 @@ The guide follows the order in which you actually make documentation decisions:
 ```
 project-docs-guide/
 ├── README.md                    ← you are here: basics, doc types, map
+├── further-reading.md           curated articles, specs, books and example docs by topic
 │
 ├── foundations/                 WHY & BASICS
 │   ├── README.md
@@ -169,6 +170,7 @@ Why this default works and when to leave it: see [choosing-structure/scenarios.m
 | **Product / business analyst** | [business-requirements](doc-types/business-requirements.md) → [style-guide](writing/style-guide.md) → [PRD template](templates/prd-template.md) |
 | **Setting up docs for AI agents** | [ai-agent-docs](doc-types/ai-agent-docs.md) → [writing-for-ai-agents](writing/writing-for-ai-agents.md) → [AGENTS.md template](templates/agents-md-template.md) |
 | **New to Markdown** | [markdown-essentials](foundations/markdown-essentials.md) |
+| **Want to go deeper** | [further-reading](further-reading.md): the best external articles, specs and books on each topic |
 
 ---
 
